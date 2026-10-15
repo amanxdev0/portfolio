@@ -88,7 +88,7 @@ const scrollActive = () =>{
 			  sectionsClass = document.querySelector('.nav__menu a[href*=' + sectionId + ']')
 
 		if(scrollDown > sectionTop && scrollDown <= sectionTop + sectionHeight){
-			sectionsClass.classList.add(' ')
+			sectionsClass.classList.add('active-link')
 		}else{
 			sectionsClass.classList.remove('active-link')
 		}                                                    
