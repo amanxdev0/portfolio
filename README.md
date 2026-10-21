@@ -2,7 +2,7 @@
 
 # 💼 PORTFOLIO
 
-**Aman Kumar — Front-End Web Developer.**
+**Aman Singh — Front-End Web Developer.**
 
 A personal portfolio site: hero, about, projects and contact — built with HTML, CSS and JavaScript, with scroll-reveal animations throughout.
 
